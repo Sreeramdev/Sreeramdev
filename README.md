@@ -1,4 +1,5 @@
-![Sreeram Devendra LinkedIn Banner](https://github.com/user-attachments/assets/75e9f30e-6b48-4d5d-a94f-dfdd65ac143d)
+
+![Sreeram Devendra LinkedIn Banner (1)](https://github.com/user-attachments/assets/096492da-03b0-4638-b26f-43ba8b8c98f2)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Sreeram Devendra</h2>
