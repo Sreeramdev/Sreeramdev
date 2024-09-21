@@ -1,4 +1,5 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Sreeram Devendra LinkedIn Banner](https://github.com/user-attachments/assets/75e9f30e-6b48-4d5d-a94f-dfdd65ac143d)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Sreeram Devendra</h2>
 
